@@ -1,0 +1,20 @@
+
+<html>
+<head>
+<title>My Web Page</title>
+</head>
+<style>
+h1 {
+position:middle;
+text-family: serif;
+}
+</style>
+<body>
+
+<h1>
+<u><center>This is a Heading</center></u>
+</h1><hr><marquee>
+<p>This is a &nbsp; paragraph.</p></marquee>
+
+</body>
+</html>
